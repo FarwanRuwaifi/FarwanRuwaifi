@@ -1,4 +1,7 @@
 # 💫 About Me:
-I am currently learning inner-python.
+I am Farwan. I am a 12 year old boy who loves Computer Science. I am still a beginner programmer.
+# 📕 What I am currently learning:
+I am learning JavaScript, HTML and CSS. I will move to other languages later on.
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
+![Python]
