@@ -4,7 +4,7 @@
 
 ## 💻 Tech Stack I'm Learning & Loving:
 - 🔥 **Python** = for AI and future data projects.
-- 🌐 **HTML**, **CSS**, **JavaScript** = for building the foundations of the web.
+- 🌐 **HTML**, **CSS**, **JavaScript** = for building a website.
 - 🛢️ Planning to learn **MySQL** soon.
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
