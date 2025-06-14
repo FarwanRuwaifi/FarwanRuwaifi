@@ -3,20 +3,18 @@
 🎓 I'm a passionate **student** on a journey to become a **Web Developer** and dive into the world of **AI**.
 
 ## 💻 Tech Stack I'm Learning & Loving:
-- 🔥 **Python** – for AI and future data projects
-- 🌐 **HTML**, **CSS**, **JavaScript** – building the foundations of the web
-- 🛢️ Planning to learn **MySQL** soon
+- 🔥 **Python** for AI and future data projects.
+- 🌐 **HTML**, **CSS**, **JavaScript** for building the foundations of the web.
+- 🛢️ Planning to learn **MySQL** soon.
 
-## 🚀 My Goals
-- Build cool websites and apps
-- Create projects using AI and automation
-- Learn full-stack development
+## 🚀 My Goals:
+- Build cool websites and apps.
+- Create projects using AI and automation.
+- Learn full-stack development.
 
 ## 📫 Connect With Me!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](farwanruwaifi.cs@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1383060450740011028)
-
-<!-- Replace with your real email and Discord profile link -->
 
 ## 🛠️ Tools & Badges
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
