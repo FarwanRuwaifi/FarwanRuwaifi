@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Farwan's GitHub stats](https://github-readme-stats.vercel.app/api?FarwanRuwaifi&show_icons=true&theme=radical)
+![Farwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarwanRuwaifi&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
