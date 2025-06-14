@@ -22,7 +22,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](farwanruwaifi.cs@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1383060450740011028)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 ![Farwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FarwanRuwaifi&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarwanRuwaifi&layout=compact&theme=radical)
